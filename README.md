@@ -1,12 +1,9 @@
 ## Hi there my name Ghaisan alvaro
 
-<!--## 💻 My Skills
+# My Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,react,nodejs,mysql,git,github,vscode&perline=6)](https://skillicons.dev)
-**Varr123/varr123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,github,vscode)](https://github.com/tandpfun/skill-icons)
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
