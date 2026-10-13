@@ -1,5 +1,5 @@
 ## Hiiiii my name Ghaisan alvaro
-# A web developer and Cybersecurity, more about my information coming soon..
+# A web developer and Cybersecurity, more about my information coming soon.. stay tune :)
 
 # My Skills 
 
